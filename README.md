@@ -1,4 +1,4 @@
-**Samll php framework**
+**Small php framework**
 
 1. MVC pattern
 2. Single entry point
